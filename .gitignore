@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Outros
+*.cache
+*.dll
+*.exe
+*.pdb
